@@ -1,0 +1,11 @@
+
+[[Etapa 0 - Introdução Fundamentos de Redes de Computadores]]
+[[Etapa 1 - Operando elementos fundamentais de redes de computadores – Conceitos iniciais, Modelo OSI e Tipos de Rede]]
+[[Etapa 2 - Operando elementos fundamentais de redes de computadores – endereçamento, protocolos e segurança.]]
+[[Etapa 3 - Explorando endereçamento e protocolos de redes – IPv6 e DHCP]]
+[[Etapa 4 - Explorando endereçamento e protocolos de redes – LANs, DNS, TCP e UDP]]
+[[Etapa 5 -  Explorando endereçamento e protocolos de redes – Camada de Aplicação, HTTP, HTML, FTP, Telnet, SSH e Solução de Problemas]]
+[[Etapa 6 - Explorando componentes de redes]]
+[[Etapa 7 - Operando cabeçalhos, esquemas de endereçamento, ARP, DHCP e DNS]]
+[[Etapa 8 - Definindo configurações iniciais de dispositivos de redes]]
+[[Etapa 9 - Usando os comandos e ferramentas para monitorar as operações de dispositivos]]
