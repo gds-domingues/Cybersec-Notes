@@ -1,0 +1,34 @@
+![](https://infnet.online/wp-content/uploads/2024/03/LD8-8.jpg)
+
+Nesta lição, mergulharemos na fascinante visão geral do Linux e na proteção do sistema e do ponto de extremidade. Por que é crucial dominar as habilidades em Linux? Porque elas são fundamentais para o monitoramento e investigação de segurança de rede, capacitando vocês a identificar ameaças, gerenciar arquivos de texto, localizar servidores em execução, monitorar arquivos de log e muito mais.
+
+Ao longo desta lição, vamos aprender a utilizar o shell do Linux para manipular arquivos de texto, identificar servidores ativos, gerenciar permissões no sistema de arquivos, compreender os componentes básicos da GUI do Linux e até mesmo detectar e mitigar malware em hosts Linux. Além disso, exploraremos processos e procedimentos essenciais para proteger sistemas, métodos eficazes de mitigação de malware e recomendações de medidas de segurança para endpoints. Preparem-se também para utilizar ferramentas de investigação de malware, a fim de aprender mais sobre os recursos das ameaças e como se defender contra elas.
+
+**Proteção de Sistemas**  
+Durante séculos, a humanidade tem buscado proteger seus ativos mais preciosos, e no mundo digital contemporâneo, os sistemas de computadores representam uma parte vital desses ativos. Desde os primeiros computadores até os sistemas altamente sofisticados de hoje, a proteção de sistemas tem sido uma preocupação constante. Com o surgimento de ameaças cada vez mais complexas, como malware, ataques de negação de serviço e intrusões cibernéticas, a necessidade de proteger sistemas contra essas ameaças tornou-se ainda mais premente. Nesta lição, exploraremos os processos e procedimentos fundamentais para proteger sistemas contra intrusões, garantindo assim a integridade e segurança dos dados. Preparem-se para mergulhar em um mundo de firewalls, criptografia, autenticação e muito mais, à medida que aprendemos juntos como manter nossos sistemas seguros em um mundo digital em constante evolução.
+
+O Linux desempenha um papel fundamental na segurança de endpoints, oferecendo uma gama de recursos e ferramentas que fortalecem a proteção dos sistemas contra ameaças cibernéticas. Ao contrário de outros sistemas operacionais, o Linux é conhecido por sua robustez e segurança inerentes, o que o torna uma escolha popular para servidores e dispositivos de rede. No contexto da segurança de endpoints, o Linux oferece várias vantagens significativas.  
+Em primeiro lugar, a natureza de código aberto do Linux permite uma maior transparência e controle sobre o sistema, o que facilita a detecção e correção de vulnerabilidades de segurança. Os administradores podem acessar e modificar o código-fonte conforme necessário, adaptando-o às necessidades específicas de segurança de sua organização.  
+Além disso, o Linux é altamente modular e altamente personalizável, permitindo que os administradores implementem medidas de segurança específicas para proteger endpoints contra ameaças conhecidas e emergentes. Isso inclui a utilização de firewalls, sistemas de detecção de intrusões, ferramentas de criptografia e muito mais.  
+Outro benefício do Linux para a segurança de endpoints é sua ampla variedade de ferramentas de linha de comando e scripts, que facilitam a automação de tarefas de segurança e a análise de sistemas em busca de atividades suspeitas. Isso permite uma resposta mais rápida e eficaz a incidentes de segurança, minimizando o tempo de inatividade e os impactos negativos nas operações comerciais.
+
+**Mitigação de Malware**  
+Desde os primeiros dias da computação, o malware tem sido uma preocupação constante para os usuários de sistemas de computadores. Da disseminação de vírus de disquete à propagação em massa de ransomware, os ataques de malware evoluíram consideravelmente ao longo dos anos, tornando-se uma ameaça significativa para a segurança da informação. Na lição de hoje, vamos explorar os métodos de mitigação de malware, aprendendo como identificar, prevenir e combater eficazmente essas ameaças. Desde a implementação de políticas de segurança robustas até a utilização de softwares antivírus avançados, estaremos preparados para enfrentar os desafios impostos pelo malware em todas as suas formas. Estejam prontos para adquirir conhecimentos essenciais que os capacitarão a proteger seus sistemas contra as ameaças mais recentes e sofisticadas.
+
+![](https://learning.oreilly.com/library/cover/9781789612820)
+
+Assista ao curso **Linux Security and Hardening, The Practical Security Guide**, disponível na plataforma Oreilly. Este curso, ministrado por Jason Cannon da Linux Training Academy, oferece uma visão abrangente sobre segurança e fortalecimento de sistemas Linux.  
+[Clique aqui para acessar o recurso](https://learning.oreilly.com/course/linux-security-and/9781789612820/)
+
+**Segurança de EndPoints**  
+Em um mundo digital onde a mobilidade e a conectividade são essenciais, os endpoints, como laptops, dispositivos móveis e até mesmo dispositivos IoT, tornaram-se alvos valiosos para os cibercriminosos. A segurança de endpoint é, portanto, uma parte crucial da estratégia de segurança de qualquer organização, pois visa proteger os pontos de acesso aos dados e redes corporativas. Nesta lição, exploraremos as melhores práticas e recomendações para garantir a segurança dos endpoints, desde a implementação de políticas de acesso e controle de dispositivos até a utilização de softwares de segurança avançados. Ao compreender e aplicar essas medidas de segurança, estaremos preparados para enfrentar os desafios impostos pela crescente complexidade das ameaças cibernéticas e garantir a proteção dos ativos digitais de nossas organizações.
+
+![](https://learning.oreilly.com/library/cover/9781098122546)
+
+Leia o capítulo 13 do livro Foundations of Information Security, de Jason Andress, para entender a importância de manter a segurança das aplicações, destacando casos reais de violações de dados, como o ataque à Target Corporation em 2013. Este incidente ilustra como vulnerabilidades nas aplicações podem levar a sérias consequências para a segurança dos dados e dos sistemas.  
+[Clique aqui para acessar o recurso](https://learning.oreilly.com/library/view/foundations-of-information/9781098122546/xhtml/ch13.xhtml#ch13lev1sec1)
+
+![](http://api.pagepeeker.com/v2/thumbs.php?size=s&code=4245e2496a&url=https://skillsforall.com/course/endpoint-security?courseLang=en-US)
+
+**Conclua os módulos 8 e 9 do curso Endpoint Security, na plataforma Skills For All da Cisco**.  
+[Clique aqui para acessar o recurso](https://skillsforall.com/course/endpoint-security?courseLang=en-US)
