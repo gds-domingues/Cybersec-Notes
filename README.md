@@ -42,7 +42,8 @@ O material contém:
 
 Fiquem à vontade para clonar as pastas para estudos.
 
-`## Contribuições  Contribuições são muito bem-vindas! 🚀  Se você deseja contribuir para enriquecer o conteúdo deste repositório, siga estas etapas:`
+## Contribuições  Contribuições são muito bem-vindas! 🚀  Se você deseja contribuir para enriquecer o conteúdo deste repositório, siga estas etapas:
+
 1. Faça um fork deste repositório.
 
 2. Crie uma nova branch para a sua feature ou correção: 
