@@ -42,6 +42,20 @@ O material contém:
 
 Fiquem à vontade para clonar as pastas para estudos.
 
+`## Contribuições  Contribuições são muito bem-vindas! 🚀  Se você deseja contribuir para enriquecer o conteúdo deste repositório, siga estas etapas:  1. Faça um fork deste repositório. 2. Crie uma nova branch para a sua feature ou correção:    ```bash    git checkout -b minha-feature`
+
+Faça os commits das suas alterações:
+    
+    `git commit -m "Descrição clara do que foi alterado"`
+    
+Envie suas alterações para o repositório remoto:
+    
+    `git push origin minha-feature`
+    
+Abra um Pull Request explicando as suas mudanças.
+
+Todos os commits serão revisados antes de serem aceitos. Vamos colaborar juntos para construir algo incrível! 😄
+
 ### Observações
 1. **Recomendação:** Usem o [Obsidian](https://obsidian.md/) para abrir a pasta base. Você terá uma organização muito melhor do material.
 2. **Aviso:** Ainda não terminei o curso. Este é um projeto de mais de **1.5 anos**.
