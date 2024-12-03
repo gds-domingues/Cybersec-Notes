@@ -45,17 +45,19 @@ Fiquem à vontade para clonar as pastas para estudos.
 `## Contribuições  Contribuições são muito bem-vindas! 🚀  Se você deseja contribuir para enriquecer o conteúdo deste repositório, siga estas etapas:`
 1. Faça um fork deste repositório.
 
-2. Crie uma nova branch para a sua feature ou correção: git checkout -b minha-feature
+2. Crie uma nova branch para a sua feature ou correção: 
 
-3. Faça os commits das suas alterações:
+    `git checkout -b minha-feature"`
+
+4. Faça os commits das suas alterações:
     
     `git commit -m "Descrição clara do que foi alterado"`
     
-4. Envie suas alterações para o repositório remoto:
+5. Envie suas alterações para o repositório remoto:
     
     `git push origin minha-feature`
     
-5. Abra um Pull Request explicando as suas mudanças.
+6. Abra um Pull Request explicando as suas mudanças.
 
 Todos os commits serão revisados antes de serem aceitos. Vamos colaborar juntos para construir algo incrível! 😄
 
