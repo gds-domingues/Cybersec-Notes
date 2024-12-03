@@ -46,7 +46,7 @@ Fiquem à vontade para clonar as pastas para estudos.
 
 2. Crie uma nova branch para a sua feature ou correção: 
 
-    `git checkout -b minha-feature"`
+    `git checkout -b "minha-feature"`
 
 4. Faça os commits das suas alterações:
     
