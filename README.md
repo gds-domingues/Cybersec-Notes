@@ -2,8 +2,6 @@
 
 Iniciei a documentação das minhas matérias da faculdade de segurança da informação. Todas as matérias serão publicadas, e, inicialmente, temos apenas as disciplinas de **Arquitetura de Computadores e Sistemas Operacionais** e **Fundamentos de Redes de Computadores 1 e 2** e **Fundamentos de Segurança da Informação**. 
 
-[Repositório no GitHub](https://github.com/gds-domingues/Notas-Facul-CyberSec)
-
 ## Conteúdo do Repositório
 
 O conteúdo que estará presente neste GitHub será das seguintes matérias:
