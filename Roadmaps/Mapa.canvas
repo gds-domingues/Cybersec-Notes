@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"2463dfdf001a9994","type":"group","x":-1540,"y":680,"width":2600,"height":520,"label":"Blue Team"},
+		{"id":"8d608f6d3c296a3e","type":"group","x":-1540,"y":-1000,"width":2600,"height":500,"label":"Purple Team"},
+		{"id":"5913797ae9f83e3b","x":-2020,"y":-360,"width":440,"height":920,"type":"group","label":"Red Team"},
+		{"id":"ab3771dc70e278d6","type":"file","file":"Roadmaps/Analista de Malware.md","x":-751,"y":-920,"width":400,"height":400,"color":"6"},
+		{"id":"fc0be8ca01ff87ca","type":"file","file":"Roadmaps/Analista Forense.md","x":640,"y":-920,"width":400,"height":400,"color":"6"},
+		{"id":"70d809efdb5c3956","type":"file","file":"Roadmaps/Analista de Segurança da Informação.md","x":-40,"y":-920,"width":400,"height":400,"color":"6"},
+		{"id":"e71938387c675e3e","type":"file","file":"Roadmaps/Cloud Security.md","x":-1520,"y":-920,"width":400,"height":400,"color":"6"},
+		{"id":"962d5eec48f4ed04","type":"file","file":"Roadmaps/Analista SOC.md","x":-751,"y":760,"width":400,"height":400,"color":"#2500e0"},
+		{"id":"252ff96367777995","type":"file","file":"Roadmaps/DevSecOps.md","x":-1520,"y":760,"width":400,"height":400,"color":"#2500e0"},
+		{"id":"639074b9bbccdb60","type":"file","file":"Roadmaps/Engenheiro de Segurança da Informação.md","x":-40,"y":760,"width":400,"height":400,"color":"#2500e0"},
+		{"id":"47180318120950c6","type":"file","file":"Roadmaps/Incident Responder.md","x":640,"y":760,"width":400,"height":400,"color":"#2500e0"},
+		{"id":"c579843716ec5847","type":"file","file":"Roadmaps/Roadmaps.md","x":-440,"y":-60,"width":400,"height":400},
+		{"id":"3915a49881fd1543","type":"file","file":"Roadmaps/Penetration Tester.md","x":-2000,"y":140,"width":400,"height":400,"color":"1"},
+		{"id":"6ce15600746eceda","type":"file","file":"Roadmaps/Red Teamer.md","x":-2000,"y":-340,"width":400,"height":400,"color":"1"}
+	],
+	"edges":[
+		{"id":"cf6a32f339655e33","fromNode":"c579843716ec5847","fromSide":"top","toNode":"e71938387c675e3e","toSide":"bottom"},
+		{"id":"726adf1480384b44","fromNode":"c579843716ec5847","fromSide":"top","toNode":"ab3771dc70e278d6","toSide":"bottom"},
+		{"id":"9c4c2156ea0c606c","fromNode":"c579843716ec5847","fromSide":"top","toNode":"70d809efdb5c3956","toSide":"bottom"},
+		{"id":"9412744939b879a0","fromNode":"c579843716ec5847","fromSide":"top","toNode":"fc0be8ca01ff87ca","toSide":"bottom"},
+		{"id":"1b7b6d05257e16c1","fromNode":"c579843716ec5847","fromSide":"left","toNode":"6ce15600746eceda","toSide":"right"},
+		{"id":"9d1ce693e166ab29","fromNode":"c579843716ec5847","fromSide":"left","toNode":"3915a49881fd1543","toSide":"right"},
+		{"id":"729e0778d9efbb9c","fromNode":"c579843716ec5847","fromSide":"bottom","toNode":"252ff96367777995","toSide":"top"},
+		{"id":"d12b9556c308b396","fromNode":"c579843716ec5847","fromSide":"bottom","toNode":"962d5eec48f4ed04","toSide":"top"},
+		{"id":"aa87c1de6af93185","fromNode":"c579843716ec5847","fromSide":"bottom","toNode":"639074b9bbccdb60","toSide":"top"},
+		{"id":"119f3151ddd80d51","fromNode":"c579843716ec5847","fromSide":"bottom","toNode":"47180318120950c6","toSide":"top"}
+	]
+}
